@@ -20,5 +20,5 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 
 ## Todo
-- [] Add syntax highlighting.
-- [] Add custom CSS
+- [ ] Add syntax highlighting.
+- [ ] Add custom CSS
