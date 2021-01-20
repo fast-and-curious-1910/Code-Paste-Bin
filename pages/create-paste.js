@@ -3,7 +3,7 @@ import {Form} from 'react-bootstrap'
 
 function CreateSnippet() {
     return (
-        <div className='text-center mt-4'> 
+        <div className='align-items: center; margin-top: 4'> 
             <h1>
                 Upload you snippet now!
             </h1>
